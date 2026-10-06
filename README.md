@@ -1,6 +1,6 @@
 # Enterprise Lab
 
-Year 2 cybersecurity student in Sunway University. Started May 2026.
+Year 2 cybersecurity student at Sunway University. Lab started October 2026.
 
 A small company network I am building at home to learn how enterprise IT
 works: Linux, Windows Server, Active Directory, networking and logging.
